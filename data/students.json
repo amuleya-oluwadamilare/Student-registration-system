@@ -1,0 +1,30 @@
+[
+    {
+        "student_id": "STU001",
+        "full_name": "Amuleya Emmanuel",
+        "class_form": "300lcl",
+        "gender": "male",
+        "date_of_birth": "12/11/2008",
+        "scores": {
+            "Mathematics": 78.0,
+            "English": 70.0,
+            "Computer Science": 88.0,
+            "Physics": 72.0,
+            "Chemistry": 69.0
+        }
+    },
+    {
+        "student_id": "wwt22",
+        "full_name": "emmanuel samuel",
+        "class_form": "200lv",
+        "gender": "male",
+        "date_of_birth": "22/11/220",
+        "scores": {
+            "Mathematics": 90.0,
+            "English": 66.0,
+            "Computer Science": 79.0,
+            "Physics": 77.0,
+            "Chemistry": 75.0
+        }
+    }
+]
