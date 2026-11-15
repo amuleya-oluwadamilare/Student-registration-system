@@ -70,4 +70,4 @@ The system uses JSON to store student records and examination scores. This allow
 
 ## Author
 
-Student Result Management System Project.
+AMULEYA OLUWADAMILARE EMMANUEL.
